@@ -1,0 +1,22 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohanrohith/npmtest.git"
+  },
+  "author": "Rohith Mohan <rohith.mohan@flipkart.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohanrohith/npmtest/issues"
+  },
+  "homepage": "https://github.com/mohanrohith/npmtest#readme",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
